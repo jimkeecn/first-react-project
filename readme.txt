@@ -6,6 +6,7 @@ Step to create initiate the first react application
 
 Errors:
 1. Encouter problem while initialize the react application. => tried to install latest npm version ....
+2. remove the node_modules file folder from the local C drive, different webpack problem.
 
 Reference:
 https://nodejs.org/en/
